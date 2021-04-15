@@ -1,0 +1,26 @@
+.demoForm {
+    width: 500px;
+    margin: auto;
+}
+.error {
+    color:#db2269;
+    font-size: 0.625em;    
+}
+.demoTable {
+    width: 900px;
+    margin: auto;
+}
+.tableConfig {
+    width: 900px;    
+    float: right;
+}
+.leftDiv {
+    width: 50%;
+    float: left;
+    padding-left: 35%;
+}
+.rightDiv {    
+    width: 50%;
+    float: left;
+    padding-right: 25%;
+}
